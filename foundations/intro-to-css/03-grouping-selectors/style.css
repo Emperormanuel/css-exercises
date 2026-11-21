@@ -1,11 +1,11 @@
 /* Add CSS Styling */
 
-.intro {
+.intro, .back {
     font-family: Helvetica, "Times New Roman",  sans-serif;
     font-size: 28px;
 }
 
-.main {
+.intro {
     background-color: black;
     color: white;
 }
